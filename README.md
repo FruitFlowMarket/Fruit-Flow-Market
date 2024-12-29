@@ -1,5 +1,8 @@
 <h1>:apple: Fruit-Flow-Market :apple:</h1>
 <br>
+2024.11.26 ~ 2024.12.27
+<br>
+<br>
 <h2>Project Goals</h2>
 <b>무인 스마트 매장 시스템</b>을 구현합니다.<br>
 
